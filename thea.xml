@@ -2,8 +2,8 @@
 <manifest>
   <project path="device/motorola/thea" name="motog2014devteam/android_device_motorola_thea" remote="github" revision="cm-12.1" />
   <project path="device/motorola/msm8226-common" name="motog2014devteam/android_device_motorola_msm8226-common" remote="github" revision="cm-12.1" />
-  <project path="kernel/motorola/msm8226" name="motog2014devteam/android_kernel_motorola_msm8226" remote="github" revision="cm-12.1" />
-  <project path="device/qcom/common" name="motog2014devteam/android_device_qcom_common" remote="github" revision="cm-12.1" />
+  <project path="kernel/motorola/msm8226" name="CyanogenMod/android_kernel_motorola_msm8226" remote="github" revision="cm-12.1" />
+  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.1" />
   <!-- TheMuppets -->
   <project name="motog2014devteam/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-12.1" />
 
